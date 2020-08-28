@@ -7,3 +7,5 @@ Handwritten digit recognition with pytorch.
 
 ## Preview
 ![test number](screenshot.PNG)
+
+------
